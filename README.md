@@ -1,7 +1,7 @@
 ```
 www.igrejaleaodatribodejuda.com.br/
 │
-├── assets/                    # Arquivos estáticos (CSS, JS, imagens, etc)
+├── assets/
 │   ├── css/
 │   │   └── style.css          # Customizações de estilo
 │   ├── js/
@@ -9,19 +9,19 @@ www.igrejaleaodatribodejuda.com.br/
 │   └── img/
 │       └── logo.png           # Logotipo da igreja
 │
-├── includes/                  # Partes reutilizáveis (header, footer, conexão com DB)
+├── includes/                  
 │   ├── header.php             # Cabeçalho do site (menu de navegação, etc)
 │   ├── footer.php             # Rodapé do site
 │   └── db.php                 # Conexão com banco de dados
 │
-├── admin/                     # Painel Administrativo
+├── admin/                     
 │   ├── index.php              # Página inicial do painel (dashboard)
 │   ├── login.php              # Página de login do admin
 │   ├── sermoes.php            # Gerenciamento de sermões
 │   ├── eventos.php            # Gerenciamento de eventos
 │   └── doacoes.php            # Relatórios de doações
 │
-├── page/                      # Páginas principais do site
+├── page/                      
 │   ├── home.php               # Página inicial
 │   ├── sobre.php              # Página "Quem Somos"
 │   ├── cultos.php             # Página de cultos
