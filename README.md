@@ -3,10 +3,8 @@ www.igrejaleaodatribodejuda.com.br/
 │
 ├── assets/                    # Arquivos estáticos (CSS, JS, imagens, etc)
 │   ├── css/
-│   │   ├── bootstrap.min.css  # Bootstrap CSS
 │   │   └── style.css          # Customizações de estilo
 │   ├── js/
-│   │   ├── bootstrap.min.js   # Bootstrap JS
 │   │   └── main.js            # Scripts customizados
 │   └── img/
 │       └── logo.png           # Logotipo da igreja
