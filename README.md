@@ -8,7 +8,7 @@ www.igrejaleaodatribodejuda.com.br/
 │   ├── js/
 │   │   ├── bootstrap.min.js   # Bootstrap JS
 │   │   └── main.js            # Scripts customizados
-│   ├── img/
+│   └── img/
 │       └── logo.png           # Logotipo da igreja
 │
 ├── includes/                  # Partes reutilizáveis (header, footer, conexão com DB)
